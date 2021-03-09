@@ -1,0 +1,125 @@
+{
+  "name": "apeswap",
+  "timestamp": "2020-08-25T15:41:29.665Z",
+  "version": {
+    "major": 1,
+    "minor": 3,
+    "patch": 1
+  },
+  "tags": {},
+  "logoURI": "/images/coins/wbnb.png",
+  "keywords": ["apeswap", "default"],
+  "tokens": [
+    {
+      "name": "WBNB Token",
+      "symbol": "WBNB",
+      "address": "0xae13d989dac2f0debff460ac112a837c89baa7cd",
+      "chainId": 97,
+      "decimals": 18,
+      "logoURI": "/images/coins/wbnb.png"
+    },
+    {
+      "name": "WBNB Token",
+      "symbol": "WBNB",
+      "address": "0xbb4cdb9cbd36b01bd1cbaebf2de08d9173bc095c",
+      "chainId": 56,
+      "decimals": 18
+    },
+    {
+      "name": "BANANA Token",
+      "symbol": "BANANA",
+      "address": "0x4Fb99590cA95fc3255D9fA66a1cA46c43C34b09a",
+      "chainId": 97,
+      "decimals": 18,
+      "logoURI": "/images/coins/BANANA.svg"
+    },
+    {
+      "name": "BANANA Token",
+      "symbol": "BANANA",
+      "address": "0x603c7f932ED1fc6575303D8Fb018fDCBb0f39a95",
+      "chainId": 56,
+      "decimals": 18,
+      "logoURI": "/images/coins/BANANA.svg"
+    },
+    {
+      "name": "BUSD Token",
+      "symbol": "BUSD",
+      "address": "0xed24fc36d5ee211ea25a80239fb8c4cfd80f12ee",
+      "chainId": 97,
+      "decimals": 18,
+      "logoURI": "/images/coins/BUSD.png"
+    },
+    {
+      "name": "BTCB Token",
+      "symbol": "BTCB",
+      "address": "0x6ce8da28e2f864420840cf74474eff5fd80e65b8",
+      "chainId": 97,
+      "decimals": 18,
+      "logoURI": "/images/coins/BTC-icon.png"
+    },
+    {
+      "name": "ETH Token",
+      "symbol": "ETH",
+      "address": "0xd66c6b4f0be8ce5b39d52e0fd1344c389929b378",
+      "chainId": 97,
+      "decimals": 18,
+      "logoURI": "/images/coins/ETH.png"
+    },
+    {
+      "name": "BUSD Token",
+      "symbol": "BUSD",
+      "address": "0xe9e7cea3dedca5984780bafc599bd69add087d56",
+      "chainId": 56,
+      "decimals": 18,
+      "logoURI": "/images/coins/BUSD.png"
+    },
+    {
+      "name": "Ethereum Token",
+      "symbol": "ETH",
+      "address": "0x2170ed0880ac9a755fd29b2688956bd959f933f8",
+      "chainId": 56,
+      "decimals": 18,
+      "logoURI": "/images/coins/ETH.png"
+    },
+    {
+      "name": "BTCB Token",
+      "symbol": "BTCB",
+      "address": "0x7130d2a12b9bcbfae4f2634d864a1ee1ce3ead9c",
+      "chainId": 56,
+      "decimals": 18,
+      "logoURI": "/images/coins/BTC-icon.png"
+    },
+    {
+      "name": "PancakeSwap Token",
+      "symbol": "CAKE",
+      "address": "0x0e09fabb73bd3ade0a17ecc321fd13a19e81ce82",
+      "chainId": 56,
+      "decimals": 18,
+      "logoURI": "/images/coins/CAKE.png"
+    },
+    {
+      "name": "Bakery Token",
+      "symbol": "BAKE",
+      "address": "0xE02dF9e3e622DeBdD69fb838bB799E3F168902c5",
+      "chainId": 56,
+      "decimals": 18,
+      "logoURI": "/images/coins/CAKE.png"
+    },
+    {
+      "name": "SOUL Token",
+      "symbol": "SOUL",
+      "address": "0x67d012F731c23F0313CEA1186d0121779c77fcFE",
+      "chainId": 56,
+      "decimals": 8,
+      "logoURI": "/images/coins/SOUL.png"
+    },
+    {
+      "name": "USD Coin",
+      "symbol": "USDC",
+      "address": "0x8ac76a51cc950d9822d68b83fe1ad97b32cd580d",
+      "chainId": 56,
+      "decimals": 18,
+      "logoURI": "/images/coins/USDC.png"
+    }
+  ]
+}
