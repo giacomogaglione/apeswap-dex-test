@@ -1,5 +1,5 @@
 import React from 'react'
-import { Text } from '@apeswapfinance/uikit'
+import { Text } from '@giacomogaglione/tempura-kit'
 import styled from 'styled-components'
 import { RowFixed } from '../Row'
 

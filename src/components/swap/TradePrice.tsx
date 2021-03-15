@@ -1,6 +1,6 @@
 import React from 'react'
 import { Price } from '@apeswapfinance/sdk'
-import { SyncAltIcon, Text } from '@apeswapfinance/uikit'
+import { SyncAltIcon, Text } from '@giacomogaglione/tempura-kit'
 import { StyledBalanceMaxMini } from './styleds'
 
 interface TradePriceProps {

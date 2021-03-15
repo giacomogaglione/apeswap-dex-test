@@ -1,6 +1,6 @@
 import { Trade, TradeType } from '@apeswapfinance/sdk'
 import React, { useMemo, useState } from 'react'
-import { Text , Button } from '@apeswapfinance/uikit'
+import { Text , Button } from '@giacomogaglione/tempura-kit'
 import { Repeat } from 'react-feather'
 
 import { Field } from '../../state/swap/actions'
