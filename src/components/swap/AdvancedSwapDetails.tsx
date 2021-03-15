@@ -1,6 +1,6 @@
 import React from 'react'
 import { Trade, TradeType } from '@apeswapfinance/sdk'
-import { Card, CardBody, Text } from '@giacomogaglione/tempura-kit'
+import { Card, CardBody, Text } from '@giacomogaglione/tempy-uikit'
 import { Field } from '../../state/swap/actions'
 import { useUserSlippageTolerance } from '../../state/user/hooks'
 import { computeSlippageAdjustedAmounts, computeTradePriceBreakdown } from '../../utils/prices'

@@ -1,5 +1,5 @@
 import React, { useContext } from 'react'
-import { Menu as UikitMenu, ConnectorId } from '@giacomogaglione/tempura-kit'
+import { Menu as UikitMenu, ConnectorId } from '@giacomogaglione/tempy-uikit'
 import { useWeb3React } from '@web3-react/core'
 import { LanguageContext } from 'hooks/LanguageContext'
 import useTheme from 'hooks/useTheme'

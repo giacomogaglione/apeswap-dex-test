@@ -1,5 +1,5 @@
 import React from 'react'
-import { Modal } from '@giacomogaglione/tempura-kit'
+import { Modal } from '@giacomogaglione/tempy-uikit'
 import SlippageToleranceSetting from './SlippageToleranceSetting'
 import TransactionDeadlineSetting from './TransactionDeadlineSetting'
 

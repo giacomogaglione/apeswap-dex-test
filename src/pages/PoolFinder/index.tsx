@@ -1,6 +1,6 @@
 import { Currency, ETHER, JSBI, TokenAmount } from '@apeswapfinance/sdk'
 import React, { useCallback, useEffect, useState } from 'react'
-import { Button, ChevronDownIcon, AddIcon, CardBody, Text } from '@giacomogaglione/tempura-kit'
+import { Button, ChevronDownIcon, AddIcon, CardBody, Text } from '@giacomogaglione/tempy-uikit'
 import CardNav from 'components/CardNav'
 import { LightCard } from 'components/Card'
 import { AutoColumn, ColumnCenter } from 'components/Column'

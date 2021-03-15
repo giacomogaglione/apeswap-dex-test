@@ -1,7 +1,7 @@
 import React from 'react'
 import styled from 'styled-components'
 import { Link } from 'react-router-dom'
-import { ButtonMenu, ButtonMenuItem } from '@giacomogaglione/tempura-kit'
+import { ButtonMenu, ButtonMenuItem } from '@giacomogaglione/tempy-uikit'
 import TranslatedText from '../TranslatedText'
 
 const StyledNav = styled.div`

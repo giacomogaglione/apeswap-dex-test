@@ -1,6 +1,6 @@
 import React from 'react'
 import styled from 'styled-components'
-import { Card } from '@giacomogaglione/tempura-kit'
+import { Card } from '@giacomogaglione/tempy-uikit'
 
 export const BodyWrapper = styled(Card)`
   position: relative;

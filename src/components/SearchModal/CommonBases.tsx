@@ -1,5 +1,5 @@
 import React from 'react'
-import { Text } from '@giacomogaglione/tempura-kit'
+import { Text } from '@giacomogaglione/tempy-uikit'
 import { ChainId, Currency, currencyEquals, ETHER, Token } from '@apeswapfinance/sdk'
 import styled from 'styled-components'
 

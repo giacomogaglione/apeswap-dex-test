@@ -1,4 +1,4 @@
-import { MenuEntry } from '@giacomogaglione/tempura-kit'
+import { MenuEntry } from '@giacomogaglione/tempy-uikit'
 
 export const BASE_APP_URL = process.env.REACT_APP_BASE_APP_URL || 'https://apeswap-frontend.vercel.app';
 

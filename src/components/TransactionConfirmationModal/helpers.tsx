@@ -1,6 +1,6 @@
 import React, { ReactNode } from 'react'
 import styled from 'styled-components'
-import { Heading, IconButton, CloseIcon } from '@giacomogaglione/tempura-kit'
+import { Heading, IconButton, CloseIcon } from '@giacomogaglione/tempy-uikit'
 import { AutoColumn, ColumnCenter } from '../Column'
 
 

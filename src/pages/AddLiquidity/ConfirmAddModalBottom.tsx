@@ -1,6 +1,6 @@
 import { Currency, CurrencyAmount, Fraction, Percent } from '@apeswapfinance/sdk'
 import React from 'react'
-import { Button } from '@giacomogaglione/tempura-kit'
+import { Button } from '@giacomogaglione/tempy-uikit'
 import { RowBetween, RowFixed } from '../../components/Row'
 import CurrencyLogo from '../../components/CurrencyLogo'
 import { Field } from '../../state/mint/actions'

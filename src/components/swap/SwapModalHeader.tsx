@@ -1,7 +1,7 @@
 import React, { useContext, useMemo } from 'react'
 import styled, { ThemeContext } from 'styled-components'
 import { Trade, TradeType } from '@apeswapfinance/sdk'
-import { Button, Text } from '@giacomogaglione/tempura-kit'
+import { Button, Text } from '@giacomogaglione/tempy-uikit'
 import { ArrowDown, AlertTriangle } from 'react-feather'
 
 import { Field } from '../../state/swap/actions'

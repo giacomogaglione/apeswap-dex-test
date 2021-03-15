@@ -1,6 +1,6 @@
 import React, { useState } from 'react'
 import { ThemeProvider as SCThemeProvider } from 'styled-components'
-import { light, dark } from '@giacomogaglione/tempura-kit'
+import { light, dark } from '@giacomogaglione/tempy-uikit'
 
 const CACHE_KEY = 'IS_DARK'
 

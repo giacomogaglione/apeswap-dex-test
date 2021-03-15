@@ -1,5 +1,5 @@
 import React from 'react'
-import { Text } from '@giacomogaglione/tempura-kit'
+import { Text } from '@giacomogaglione/tempy-uikit'
 
 export const TYPE = {
   main(props: any) {

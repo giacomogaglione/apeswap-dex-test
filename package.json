@@ -4,7 +4,7 @@
   "homepage": ".",
   "private": true,
   "dependencies": {
-    "@giacomogaglione/tempura-kit": "0.14.4",
+    "@giacomogaglione/tempy-uikit": "0.0.6",
     "@crowdin/crowdin-api-client": "^1.8.16",
     "@ethersproject/experimental": "^5.0.1",
     "@pancakeswap-libs/uikit": "^0.10.3",
